@@ -1,0 +1,33 @@
+#header{
+    color:#0050da;
+    font-size:2cm
+}
+
+#rep{
+    color:red
+}
+                   
+#goback{
+    margin-top: 4cm;
+    margin-right: 3cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+    height: 1.2cm;
+    width: 7cm;
+    background-color: #fff;
+    border-radius: 5px;
+    border-style: solid;
+    color: #0050da;
+    border-color: #0050da;
+}
+
+
+#goback:hover{
+    border-style: solid;
+    border-color: #0050da;
+    cursor: pointer;
+    border-radius: 0.3cm;
+    color: aliceblue;
+    transition: 700ms;
+    background-color: #0050da;
+}
