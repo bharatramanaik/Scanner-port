@@ -1,2 +1,0 @@
-stratgy design pattern is usefull when there is code duplicacy. 
-The parent class uses a interface to solve this issue
