@@ -1,0 +1,4 @@
+In observer design pattern there will two things (Observable and Onserver).
+ Whenever there is a state change in observable it will update the observer.
+
+ One observable can have multiple observers (0 to * relationship)
