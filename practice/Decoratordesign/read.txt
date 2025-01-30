@@ -1,0 +1,1 @@
+Here the decorator class will have the 'is-a' as well as 'has-a' relationship with the base class.
